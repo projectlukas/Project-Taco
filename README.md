@@ -5,6 +5,10 @@
 ![Keyboard support](https://img.shields.io/badge/keyboards-Deltaco%20keyboards-orange)
 ![Tested](https://img.shields.io/badge/tested%20only%20on-GAM--075%20W-lightgrey)
 
+<p align="center">
+  <img src="IMG_7727.png" alt="Project Taco Logo" width="1500x500" />
+</p>
+
 A custom Windows desktop app for controlling the RGB lighting on the Deltaco GAM-075 W mechanical keyboard with a dark minimalist interface and splash screen. It is being built as a bug-free, modern alternative to the buggy, outdated official software, with testing actively in progress and basic lighting controls already working. Tested only on GAM-075 W. Project Taco will also be open-sourced so community members can add support for their own Deltaco keyboards, test them, and get credits for helping bring new models on board. It also aims to support OpenRGB integration so keyboard lighting can match the rest of your setup, including ARGB fans and other RGB devices.
 
 Project Taco is a custom Windows desktop application created to control the RGB lighting on the Deltaco GAM-075 W mechanical keyboard without relying on the official software. It combines direct lighting controls with a dark, minimalist interface, a custom taco-keycap icon, and a startup splash screen.
